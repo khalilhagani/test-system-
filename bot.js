@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['in kawkab_namik','namik','%help'];
+    var setGame = ['̅ĸ̅α̅ω̅ĸ̅α̅в ̅и̅α̅м̅ɪ̅ĸ','in ĸ̅α̅ω̅ĸ̅α̅в ̅и̅α̅м̅ɪ̅ĸ','̅ ̅и̅α̅м̅ɪ̅ĸ'];
     var i = -1;
     var j = 0;
     setInterval(function (){
