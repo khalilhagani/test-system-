@@ -3559,4 +3559,4 @@ client.on("message", (msg) => {
   AntiSpam.message(msg);
 });
  
-client.login("YOUR_SUPER_SECRET_TOKEN");
+client.login("NzQyMDgxNTAxNzQ2ODIzMjM5.XzA7QQ.nDmABoeN5W7B12oei7YUknCnL3s");
